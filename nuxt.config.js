@@ -21,7 +21,10 @@ export default {
     /*
      ** Global CSS
      */
-    css: ['~/assets/scss/tailwind.pcss'],
+    css: [
+        '~/assets/sass/tailwind.pcss',
+        '~/assets/sass/main.scss'
+    ],
     /*
      ** Plugins to load before mounting the App
      */
