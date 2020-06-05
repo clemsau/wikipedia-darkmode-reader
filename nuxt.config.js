@@ -60,6 +60,6 @@ export default {
     },
     purgeCSS: {
         mode: 'postcss',
-        whitelist: ['mode-dark']
+        whitelist: ['mode-dark', 'dark-mode', 'btn']
     }
 }
