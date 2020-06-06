@@ -46,7 +46,7 @@ export default {
      ** Axios module configuration
      ** See https://axios.nuxtjs.org/options
      */
-    axios: { baseURL: 'https://en.wikipedia.org/api/rest_v1' },
+    axios: { baseURL: 'https://en.wikipedia.org/api/rest_v1/page/' },
     /*
      ** Build configuration
      */
