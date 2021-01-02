@@ -1,6 +1,6 @@
 # wikipedia-darkmode-reader
 
-> A Wikipedia darkmode reader app
+> A Wikipedia darkmode reader app made as a test of nuxt with tailwindCSS
 
 ## Build Setup
 
